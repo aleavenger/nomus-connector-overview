@@ -164,8 +164,8 @@ GET  /api/v1/purchase-orders/{id}    # Specialized SaaS endpoint
 
 ## Related Projects
 
-- [Invoice Flow](https://github.com/aleavenger/invoice-flow) — Uses Nomus Connector for PO validation in the invoice automation pipeline
-- [PaperclipAI](https://github.com/aleavenger/paperclipai) — AI orchestration platform managing development agents
+- [Invoice Flow](https://github.com/aleavenger/invoice-flow-overview) — Uses Nomus Connector for PO validation in the invoice automation pipeline
+- [PaperclipAI](https://github.com/aleavenger/paperclipai-overview) — AI orchestration platform managing development agents
 
 ---
 
